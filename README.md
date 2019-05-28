@@ -29,7 +29,7 @@ git clone https://github.com/Hesammousavi/PersianAdminLTE.git
 <p dir="rtl">بزودی صفحه مستندات هم راه اندازی خواهد شد</p>
 
 
-<h2 dir="rtl">پشتیبانی از مرورگرها</h2>
+<h2 dir="rtl">پشتیبانی از مرورگرها</h2>طططططططط
 <ul dir="ltr">
   <li dir="ltr">IE 10+</li>
   <li dir="ltr">Firefox (latest)</li>
